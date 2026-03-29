@@ -1,7 +1,7 @@
 # Chess Multiverse Opening Intelligence Database (20M Lichess Subset)
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) 
+[![DOI](https://zenodo.org/badge/1170409183.svg)](https://doi.org/10.5281/zenodo.19307100)
 
 ## 🚀 Live Interactive Tool
 Explore the dataset visually without writing any code. The full 20M+ game database powers the **Opening Analytics Module** on the Chess Multiverse platform:
@@ -101,7 +101,7 @@ If you spot a statistical anomaly or an incorrect ECO classification, please ope
 If you use this dataset in data science projects, chess engine development, or statistical research, please cite it using the following DOI:
 
 **APA Format:**
-> Varshney, S. (2026). *Chess Multiverse Opening Intelligence Database (20M Lichess subset)* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Varshney, S. (2026). *Chess Multiverse Opening Intelligence Database (20M Lichess subset)* [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.19307100](https://doi.org/10.5281/zenodo.19307100)
 
 **BibTeX:**
 ```bibtex
@@ -111,13 +111,13 @@ If you use this dataset in data science projects, chess engine development, or s
   month        = {March},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {[https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)}
+  doi          = {10.5281/zenodo.19307100},
+  url          = {[https://doi.org/10.5281/zenodo.19307100](https://doi.org/10.5281/zenodo.19307100)}
 }
 ```
 
 ## 👨‍🔬 Lead Researcher & Principal Developer
-**Sparsh Varshney** *Founder • Data Scientist • Researcher*
+**Sparsh Varshney** *• Founder • Data Scientist • Researcher*
 
 Sparsh is a medical researcher and open-source data scientist currently pursuing a Bachelor of Ayurvedic Medicine and Surgery (BAMS) at Uttarakhand Ayurved University. By bridging rigorous academic research methodologies with modern web development and AI, Sparsh builds high-fidelity datasets and analytical tools. He is the founder of **Chess Multiverse** and **Amidha Ayurveda**, developing specialized data platforms across multiple disciplines.
 
