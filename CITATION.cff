@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Chess Multiverse Opening Intelligence Database (20M Lichess subset)"
+message: "If you use this dataset or software, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - given-names: "Sparsh"
+    family-names: "Varshney"
+    orcid: "https://orcid.org/0009-0004-7835-0673"
+version: 1.1.0
+doi: 10.5281/zenodo.XXXXXXX
+date-released: 2026-03-29
+url: "https://www.chessmultiverse.org/p/opening-analytics.html"
+repository-code: "https://github.com/sciencewithsaucee-sudo/chessmultiverse-opening-analytics-2024"
+license: CC-BY-SA-4.0
+keywords:
+  - chess
+  - dataset
+  - data-science
+  - opening-theory
+  - lichess
+  - chess-openings
+  - chess-database
+  - chess-analytics
+  - sports-analytics
+  - eco-codes
+  - uci
+  - json-dataset
+  - open-data
+  - game-data
+  - empirical-analysis
+  - machine-learning-data
+  - data-visualization
